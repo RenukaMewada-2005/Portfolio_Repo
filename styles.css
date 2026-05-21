@@ -129,12 +129,14 @@ section {
 .hero-content {
   flex: 1;
   min-width: 300px;
+  padding-top: 60px;
 }
 
 .hero-content h3 {
   font-size: 1.2rem;
   color: var(--secondary);
   margin-bottom: 15px;
+  margin-top: 0;     
 }
 
 .hero-content h1 {
