@@ -85,7 +85,6 @@ nav {
   display: flex;
   gap: 30px;
   list-style: none;
-  white-space: nowrap;
 }
 
 .nav-links a {
@@ -130,7 +129,7 @@ section {
 .hero-content {
   flex: 1;
   min-width: 300px;
-  padding-top: 20px;
+  padding-top: 60px;
 }
 
 .hero-content h3 {
